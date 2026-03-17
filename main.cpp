@@ -2,6 +2,7 @@
 #include <iomanip>
 #include <cstdlib>
 #include <ctime>
+#include <cmath>
 using namespace std;
 
 int main()
